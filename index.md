@@ -58,7 +58,7 @@ Phone: (+86)177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
     </ul>  
   </div>  
   <div class="course-group">  
-    Communication &amp; Writing  
+    Communication \&amp; Writing  
     <ul>  
       <li>Academic Writing</li>  
       <li>Technical Communication</li>  
@@ -77,16 +77,16 @@ Phone: (+86)177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
 
 ### 1. Trustworthy Multimodal Enhancement for Click-Through Rate Prediction
 
-Research Group of Assoc. Prof. Lanqing Yang (SJTU) & Prof. Yanting Zhang(DHU) ｜ `Mar. 2026 – Aug. 2026`
+Research Group of Associate Researcher Lanqing Yang (SJTU) & Assoc. Prof. Yanting Zhang(DHU) ｜ `Mar. 2026 – Aug. 2026`
 
-- Studied multimodal CTR prediction, where inconsistent and noisy image, text and ID signals degrade target item representations. Under the guidance of Assoc. Prof. Lanqing Yang, proposed a target-side trustworthy enhancement framework that takes the ID representation as a stable behavioral backbone and adaptively regulates multimodal fusion through confidence gating.
+- Studied multimodal CTR prediction, where inconsistent and noisy image, text and ID signals degrade target item representations. Under the guidance of Associate Researcher Lanqing Yang, proposed a target-side trustworthy enhancement framework that takes the ID representation as a stable behavioral backbone and adaptively regulates multimodal fusion through confidence gating.
 - Took main responsibility for the research design and implementation: developed the confidence-gating mechanism together with the supporting modules (multimodal interest synergy, structured semantic matching and cross-view contrastive learning), implemented the complete model in PyTorch, and conducted comparative experiments against 15 conventional, sequential and multimodal baselines on three Amazon datasets, where the model achieved the best AUC.
 - Extended the method to a real-world waterfall-style recommendation scenario and built a lightweight variant for deployment-constrained settings, verifying its transferability and engineering feasibility.
 - First author of the paper, leading the overall research and taking primary responsibility for the manuscript preparation, writing, and revision; accepted by ADMA 2026. Also served as the third author on two collaborative papers on text-to-3D generation and controllable garment text synthesis, primarily responsible for English writing and language editing under the guidance of Prof. Yanting Zhang.
 
 ### 2. Non-Intrusive Online Condition Monitoring for Large-Scale Laboratory Equipment
 
-Research Group of Prof. Guangtao Xue & Assoc. Prof. Lanqing Yang, SJTU ｜ `Sep. 2025 – Feb. 2026`
+Research Group of Prof. Guangtao Xue & Associate Researcher Lanqing Yang, SJTU ｜ `Sep. 2025 – Feb. 2026`
 
 - Participated in developing a low-cost, non-intrusive online condition-monitoring system for large laboratory equipment such as ultra-high-speed centrifuges, addressing limitations of manual inspection and native device interfaces.
 - Deployed integrated sensors for magnetic-field, acceleration, temperature and humidity; constructed signal acquisition pipelines. Determined optimal sensor mounting positions via spatial magnetic-field scanning, and maintained background data-acquisition scripts.
