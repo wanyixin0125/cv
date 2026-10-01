@@ -58,7 +58,7 @@ Phone: (+86)177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
     </ul>  
   </div>  
   <div class="course-group">  
-    Communication \&amp; Writing  
+    Communication &amp; Writing  
     <ul>  
       <li>Academic Writing</li>  
       <li>Technical Communication</li>  
@@ -95,7 +95,7 @@ Research Group of Prof. Guangtao Xue & Associate Researcher Lanqing Yang, SJTU �
 
 ### 3. LLM-Driven Virtual Deform Simulation Engineer Agent System
 
-Beijing Institute of Mechanical and Electrical Technology, CAM (Internship Project) ｜ `Aug. 2025 – Sep. 2025`
+China Academy of Machinery Beijing Research Institute of Mechanical & Electrical Technology Co., Ltd. (Internship Project) ｜ `Aug. 2025 – Sep. 2025`
 
 - Built a large-model-driven agent to tackle high-operation barriers and lack of public APIs for the Deform simulation software. Combined natural-language parsing and computer-vision-based UI localization to automate end-to-end simulation workflows: DB-file generation, parameter configuration and simulation computation.
 - Completed requirement analysis independently and developed full-stack agent modules: implemented dual-backend LLM interfaces (OpenRouter cloud + local Ollama) to translate natural-language instructions into standardized JSON action sequences; built desktop-control modules with PyAutoGUI; developed a two-stage UI matching scheme (coarse parent-graph matching + fine child-graph alignment) using OpenCV and PIL, and accumulated over 50 UI template screenshots.
